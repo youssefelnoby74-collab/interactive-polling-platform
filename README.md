@@ -1,4 +1,4 @@
-# Mentimeter Clone - Graduation Project
+# Interactive Polling Platform - Graduation Project
 
 A real-time interactive presentation and audience engagement web application built as a graduation project.
 
