@@ -18,4 +18,4 @@ A real-time interactive presentation and audience engagement web application bui
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/youssefelnoby74-collab/mentimeter-clone.git](https://github.com/youssefelnoby74-collab/mentimeter-clone.git)
+git clone https://github.com/youssefelnoby74-collab/mentimeter-clone.git
